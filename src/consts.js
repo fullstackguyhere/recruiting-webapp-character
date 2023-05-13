@@ -1,3 +1,7 @@
+export const GITHUB_USERNAME = 'mjohnston';
+export const POLICYME_BASEURL = 'https://recruiting.verylongdomaintotestwith.ca/api/';
+export const POLICYME_BASEURL_END_POINT = '/character';
+
 export const ATTRIBUTE_LIST = [
     'Strength',
     'Dexterity',

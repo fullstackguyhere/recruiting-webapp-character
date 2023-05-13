@@ -1,0 +1,29 @@
+.attribute-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+  }
+  
+  .attribute-row button {
+    padding: 2px 5px;
+    margin: 0 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: #fff;
+    transition: background-color 0.3s;
+  }
+  
+  .attribute-row button:hover {
+    background-color: #eee;
+  }
+  
+  .attribute-modifier {
+    margin-left: 10px;
+  }
+  
